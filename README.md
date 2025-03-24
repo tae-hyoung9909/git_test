@@ -26,3 +26,7 @@ git push
 git diff
 <br>
 git remote -v
+<br>
+git merge
+<br>
+git reset
