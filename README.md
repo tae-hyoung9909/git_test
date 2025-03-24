@@ -7,6 +7,8 @@ git add
 <br>
 git branch
 <br>
+git branch -d
+<br>
 git switch
 <br>
 git switch -c
