@@ -2,15 +2,27 @@
 git_text
 
 git status
-git add 
+<br>
+git add
+<br>
 git branch
+<br>
 git switch
+<br>
 git switch -c
+<br>
 git checkout
+<br>
 git checkout -b
+<br>
 git log
+<br>
 git commit
+<br>
 git commit- -m
+<br>
 git push
+<br>
 git diff
+<br>
 git remote -v
